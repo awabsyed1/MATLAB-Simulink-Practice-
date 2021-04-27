@@ -7,3 +7,4 @@ To simulate the behavior of a car suspension system when the car is driven over 
 
 Position System 
   Examined the control system used for positioning in a machine tool . Fine tuning and observing the behavior of the system to adjust the parameters accordingly. 
+  Kirchoff's law, Ohms law and servomechanism modelling were used to obtain the transfer function 
